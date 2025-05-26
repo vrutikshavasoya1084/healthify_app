@@ -1,9 +1,3 @@
-# <p align="center"><img src="README Images/Header.gif" alt="JARVIS" width="100%"/></a></p>
-
-[![pipeline status](https://gitlab.com/amfoss/amfoss/mental-health/badges/main/pipeline.svg)](https://gitlab.com/amfoss/amfoss/mental-health/-/commits/main)
-
-![BuiltFlutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 ## 📌 Introduction 
 Healthify is a cross-platform application that can be used in Android and it is made using Flutter. It aims to solve the mental health issues of a person. The app includes everything you need in a single place so that you don’t have to use multiple apps to carry out tasks like monitoring health . It is a single app that has two dashboards for the User and Doctor.
 
